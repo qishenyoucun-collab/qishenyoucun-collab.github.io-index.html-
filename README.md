@@ -1,24 +1,12 @@
-# qishenyoucun-collab.github.io-index.html-
 <!DOCTYPE html>
 <html lang="ja">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>自己紹介表</title>
-       <!-- Bootstrap -->
-    <link rel="stylesheet" href="style.css">
-    <style>
-      body {
-            padding: 30px;
-            background-color: #D3D3D3;
-        }
-      h1
-      {
-        color:red;
-      }
-    </style>
-  </head>
+  <title>自己紹介表</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 <body>
 自己紹介表
 有村啓伸の自己紹介表
